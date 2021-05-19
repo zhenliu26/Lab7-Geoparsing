@@ -137,7 +137,7 @@ uploaded = files.upload()
 ```
 
 ## Plotting Our Data
-Okay... NOW we're ready to plot our data! Remember when I mentioned that I was keeping duplicate locations? Well, the fact that I did not remove duplicate location entries means that, if I set the transparency of the markers, more frequently referenced locations will appear more opaque than those referenced just once. That’s being done with the `alpha` parameter in the plot object. Opaque markers should roughly correspond to cities mentioned often, whereas transparent ones were mentioned fewer times.
+Okay... NOW we're ready to plot our data! Remember when I mentioned that I was keeping duplicate locations? Well, the fact that I did not remove duplicate location entries means that, if I set the transparency of the markers, more frequently referenced locations will appear more opaque than those referenced just once. That’s being done with the `alpha` parameter in the `plot` object. Opaque markers should roughly correspond to cities mentioned often, whereas transparent ones were mentioned fewer times.
 
 ```Python
 # world map .shp file we down/uploaded
