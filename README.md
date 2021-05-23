@@ -1,8 +1,8 @@
 # Lab 7 -- Geoparsing with Python
 ## Introduction
-Using Python for geoparsing and mapping .txt files.
+Using Python for geoparsing and mapping .txt files. The task is to read the text from a website, extract locations, draw them on a map, and create a word frequency plot. The challenge this week is to create a function that takes a URL as an argument and output a map and a plot.. 
 ## Result
-The outputs are a spatial footprint map and a word frequency plot. Here are the result.
+The book I want to explore is * Travels into Turkey * .The outputs are a spatial footprint map and a word frequency plot. Here are the result.
 ![Spatial Footprint Map](images/FootprintMap.png)
 ![Word Frequency Plot](images/FrequencyPlot.png)
 ## Desicusion
