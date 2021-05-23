@@ -4,6 +4,7 @@ Using Python for geoparsing and mapping .txt files.
 ## Result
 The outputs are a spatial footprint map and a word frequency plot. Here are the result.
 ![Spatial Footprint Map](images/FootprintMap.png)
+![Word Frequency Plot](images/FrequencyPlot.png)
 ## Desicusion
 tell how you developed it, if there were any major challenges (and how you debugged them)
 ## question
