@@ -29,4 +29,4 @@ Using the gazetteer in 2021 to get the coordinates of the names in the book publ
 I think the accuracy of the result is not high. In the word frequency plot, "man" has the highest frequency. "man" is not a place name but Nominatim thinks it as Isle of Man. From Hu et al. (2021), a simple approach is to resolve a place name to its most prominent or default place instance, such as the one that has the highest population or the largest total area (these types of information are often available in gazetteers).
 * What are some alternative approaches to mapping the data? The tutorial here uses duplicate entries and opacity to present a type of "color ramp": could this be done better?
 
-Also, we can count the number of each city. And, show it by the size of marker on the map.
+We can also count the number of each city. And, show it by the size of marker on the map.
